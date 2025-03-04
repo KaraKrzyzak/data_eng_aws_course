@@ -1,0 +1,23 @@
+[
+    {
+        "autor": "George Orwell",
+        "tytul_ksiazki": "1984",
+        "data_wydania": "1949-06-08",
+        "timestamp_ostatniej_aktualizacji": "2023-10-01T12:00:00Z",
+        "srednia_ocena": 4.7
+    },
+    {
+        "autor": "J.K. Rowling",
+        "tytul_ksiazki": "Harry Potter and the Philosopher's Stone",
+        "data_wydania": "1997-06-26",
+        "timestamp_ostatniej_aktualizacji": "2023-09-25T15:45:00Z",
+        "srednia_ocena": 4.8
+    },
+    {
+        "autor": "F. Scott Fitzgerald",
+        "tytul_ksiazki": "The Great Gatsby",
+        "data_wydania": "1925-04-10",
+        "timestamp_ostatniej_aktualizacji": "2023-10-03T10:30:00Z",
+        "srednia_ocena": 4.5
+    }
+]
